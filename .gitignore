@@ -1,3 +1,5 @@
 .tmp/**
 db/**
 policy/**
+results.json
+.DS_Store

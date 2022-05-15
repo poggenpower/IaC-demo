@@ -1198,7 +1198,7 @@
         <h1> Trivy Report - 2022-05-14 21:33:48.972924 +0200 CEST m=+2.689318335</h1>
       </div>        
       <div class="tabs">
-          <input type="radio" class="tab" name="tabs-64263" id="64263-tab2" checked>
+          <input type="radio" class="tab" name="tabs-64263" id="64263-tab2" >
           <label for="64263-tab2" class="label">Vulnerabilities</label>
           <div class="panel">
 
@@ -1298,7 +1298,7 @@
           </div>
           {{- end }} <!-- Items found -->
           </div> <!-- Vulnerability Panel End -->
-          <input type="radio" class="tab" name="tabs-64263" id="64263-tab3">
+          <input type="radio" class="tab" name="tabs-64263" id="64263-tab3" checked>
           <label for="64263-tab3" class="label">Misconfigurations</label>
           <div class="panel">
 
